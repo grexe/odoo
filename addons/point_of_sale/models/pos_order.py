@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
+# TODO: add calculated SHA-256 hash as required by Austrian cash register law 2017 maybe to Notes field?
 import logging
 from datetime import timedelta
 from functools import partial
